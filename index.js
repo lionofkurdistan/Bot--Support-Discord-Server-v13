@@ -135,7 +135,7 @@ if(embedline.includes(message.channel.id)){
  let embed = new MessageEmbed()
     
 .setColor(message.guild.me.displayColor)
-    .setImage(`https://cdn.discordapp.com/attachments/1010969521479241878/1015328702709637330/51_DE49B43.gif`)
+    .setImage(`link line`)
   
   message.channel.send({embeds: [embed]}).catch((err) => {
    console.log(err.message)
