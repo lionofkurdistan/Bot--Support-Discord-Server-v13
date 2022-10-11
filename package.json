@@ -1,0 +1,22 @@
+{
+  "name": "Disocrdjs-v13-bot-for-replit-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "discord-inviter": "^0.9.1",
+    "discord-inviter-tracker": "^1.0.3",
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
