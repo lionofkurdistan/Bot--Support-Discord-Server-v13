@@ -7,7 +7,7 @@
 <!-- view -->
 <br>
 <h1>💻Language To Code</h1>
-<p>discord.js</p>
+<p>JavaScript</p>
 <br>
 
 <h1>Systam of bot </h1>
